@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/abhishektripathi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tripathiabhishek.com
+  * I am abhishektripathi (https://keybase.io/abhishektripathi) on keybase.
+  * I have a public key with fingerprint 264B 9821 09F0 5277 494A  A73A D8AB 7CEF E5E2 1AA4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010137f40ade5849e695f9aada76f3c1a032a3e8d46540538406b99519cc799645a70a",
+      "fingerprint": "264b982109f05277494aa73ad8ab7cefe5e21aa4",
+      "host": "keybase.io",
+      "key_id": "d8ab7cefe5e21aa4",
+      "kid": "010137f40ade5849e695f9aada76f3c1a032a3e8d46540538406b99519cc799645a70a",
+      "uid": "a261b924f133d225271368c00a796119",
+      "username": "abhishektripathi"
+    },
+    "merkle_root": {
+      "ctime": 1516691153,
+      "hash_meta": "d4fab290a5fc83933a0497e10b0870a731b20e1dbbbffe1d8f4b17a5fd7dfcc9",
+      "seqno": 1961682
+    },
+    "revoke": {
+      "sig_ids": [
+        "dd6719de55c75559eac0b3646491c3b30a164f116c51382373d69271713dea360f"
+      ]
+    },
+    "service": {
+      "hostname": "tripathiabhishek.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516691152,
+  "expire_in": 157680000,
+  "prev": "b407b4cbe20c23464e635dfbdb1124bd8db5443c3dcddd290e56744fb14ae664",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK+AnicrZNdiBVlHMbPrrsrrqsusWmx5MVoKXVY3+933g26SHENibqoYHdzT+/X
+7JnOnjOnmdnj2WQpLOwivYiIOkZ4IZKCSrRGoKCillRgqStYhMb2oRd1xAo3iqJ3
+FhciumxuXmZ4/s//eX4zc2bJglxny6F71j3+6/Sdb7V8dmrHeG4ouPLFNk9FZsLr
+3+aV7Nxhx4xN0kIpNF6/ByCAmAcESGOpT4RlggZCSiM5C7CGEmAksfUNYZQAin0C
+mBKCQqE1F4IRKjmQXt4LwsqojatxWEmdLWJECR9BIAJAEedEECk5lsaXimsbWGoR
+lJK4wWKUZBMunJKJ7Qsj98zdFObi/Yf+f849PmcnEYNKIBJAjA1CLjLEzNcASC4Y
+hCITJjauyLLN1KoYJkVbSuOwKtNi6E3mvbKNS2O2EEdRmkHWaZhJIYWMCQgpdkVl
+UiyUbSqzXiSQCgkgaaB9LDCWgAhuIVDAd7k4hgoBC41SKgjc6QdEQe7UhptA6yxP
+Yp+rRG6Dy8d85BLEthaVbLY8CUcdvsTrH/aMYRwKx4hqTikVVmqgMCOMCKixwkBC
+5lpDpinEPsIcGyZce9ffWIkZCLwtk9myuBbqOfPsfd3mMN9/nkefjsouWTWO0khH
+Y05RTNNq0p/xSSeq2chWqwq3zQoqrBj31biJmo2TMKq4Nk75b3Qo79l6NYxtIcwU
+lDMfuCvbY2vOUhHAFdHKIqARds0sw9QEyigIEVHGN4oSgjU22hjjoFvKOCGBgkRa
+xsg/WPoupxx1no5gRabjsfUmT518ui3X0pnraG/Nfqdc56Lu+Z/seH7hX6vPPvNa
+1717Wx/cNNiI3hjdU25/dva3novXtg+XB395+YMXLn16deVE/dKKaVLd2WjeWrtl
+4GDjqZ+nVpz7qGVVc+3Gi83hwzOvbrj83m54tONMZ5u37+BjS8H+XaUj749cOfbu
+l70fbr0wsu8lsnj57tqaQ/XunqH967sWvI5mGm+G7T9+//uR3keWfb1j5d6J42J6
+StY/uX9ZsGrm5oF6731r4p9GXjnXdvZ0+/LSBbpz18ffPXFisvdqfuG6Pzo2bn57
+kx0pPb8598CSqQF//eDD1+94qLnn9Df8hlr04l03t/PzBwbeaczOXuu7+4cnhy5/
+/tWtpY82e2b6jqpu1vpn9O3i89fHbmyYXt118m+4aIQq
+=YOlU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abhishektripathi
+
+==================================================================
