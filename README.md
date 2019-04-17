@@ -1,1 +1,2 @@
-# Personal website and blog code [Link](https://tripathiabhishek.com)
+# Personal website and blog code 
+[Link](https://tripathiabhishek.com)
