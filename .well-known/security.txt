@@ -1,0 +1,5 @@
+Contact: https://twitter.com/atripathi0001
+Contact: https://www.linkedin.com/in/atripathi0001
+Expires: 2027-09-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.tripathiabhishek.com/.well-known/security.txt

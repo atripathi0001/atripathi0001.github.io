@@ -107,3 +107,6 @@ plugins:
 
 jekyll-mentions:
     base_url: https://www.tripathiabhishek.com
+
+include:
+  - .well-known
